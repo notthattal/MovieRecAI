@@ -1,7 +1,7 @@
 ## Welcome to your very own movie recommendation AI
 
 This AI is built using a collaborative filtering recommendation system process and uses the "ml-latest-small.zip" dataset from Movielens which
-can be found here: https://files.grouplens.org/datasets/movielens/ml-latest-small-README.html
+can be found here: https://grouplens.org/datasets/movielens/latest/
 
 If you would like to see a sample recommendation, just run the project and see the output. You can see some pre-selected movies that have been
 reviewed in the GetMyMovieRatings() function. If you would like to add your own ratings, please refer to the small_movie_list.csv located in 
