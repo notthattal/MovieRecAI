@@ -16,3 +16,8 @@ variables:
   - min_cost: the minimum cost threshold in which you will consider the model fully trained
 
 Note: the system will exit the program for whichever comes first max_num_iterations or min_cost
+
+
+
+### Sample output from the trained AI:
+![MovieRecSampleOutput](https://github.com/notthattal/MovieRecAI/assets/61614571/2692c5a8-8867-4626-b7a2-8d1c1be0c87d)
